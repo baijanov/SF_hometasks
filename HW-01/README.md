@@ -12,7 +12,7 @@
 ### Описание проекта
 Угадать загаданное число компьютером меньше чем за 20 попыток.
 
-:arrow_up[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
 
 ### Какой кейс решаем?
 
@@ -33,16 +33,16 @@
 
 ### Краткая история о данных
 .... \
-:arrow_up[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
 
 ### Этапы работы над проектом
 .....\
-:arrow_up[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
 
 ### Результат
 В результате выполнения кода, мы получаем рабочую функцию, которая отгадывает число меньше чем за 20 попыток.\
-:arrow_up[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
 
 ### Выводы
 ....\
-:arrow_up[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/tsteak/SF_hometasks/blob/main/HW-01/README.md#Оглавление)
